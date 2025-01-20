@@ -4,7 +4,7 @@ body {
 
 .playGround {
   height: auto;
-  border: 2px green solid;
+  /* border: 2px green solid; */
 }
 
 .table {
@@ -17,7 +17,7 @@ body {
   justify-items: center;
   gap: 1.5rem;
   min-width: 40rem;
-  border: 2px red solid;
+  /* border: 2px red solid; */
   height: auto;
 }
 .board {
@@ -65,9 +65,9 @@ body {
   background-color: lightblue;
 }
 
-/* #computer .ship {
+#computer .ship {
   background-color: rgba(0, 0, 255, 0) !important;
-} */
+}
 
 .notification {
   top: 30vh;
